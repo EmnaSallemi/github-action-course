@@ -16,7 +16,7 @@ runs-on: windows-latest
 
 steps:
 - name: actions/checkout@v3
--name: run a multi-line script
+- name: run a multi-line script
 run:
 echo Add other actions to build,
 echo test,and deploy your project.
