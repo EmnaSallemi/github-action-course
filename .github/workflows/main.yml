@@ -1,3 +1,4 @@
+name: CI
 #control workflow when will run
 on:
 push:
